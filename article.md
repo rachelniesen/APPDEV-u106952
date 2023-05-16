@@ -9,6 +9,11 @@ programmers.
 
 [![Python Logo](https://www.python.org/static/img/psf-logo.png "The Python Logo")](https://www.python.org/community/logos/) [^1]
 
+## ** New Paragraph**
+
+___________________________________________________________________
+Lorem ipsum dolor sit amet
+
 ## **Why Python is Popular**
 
 ___________________________________________________________________
